@@ -9,3 +9,6 @@ https://jolly-desert-04c5ea210.1.azurestaticapps.net
 # About page
 ![Screenshot (50)](https://user-images.githubusercontent.com/84157064/169757768-318ce7b1-b258-4f3b-9680-d2e8986aad67.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/84157064/169757772-8bcb7e45-d277-42fd-a9bc-d71e5af6d64e.png)
+#Contact page
+![Screenshot (54)](https://user-images.githubusercontent.com/84157064/169758112-5f2ebfc6-72df-423d-adb5-751d552cc0a9.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/84157064/169758128-dfb7da1c-091b-49f3-93e1-dfd10cef98bf.png)
